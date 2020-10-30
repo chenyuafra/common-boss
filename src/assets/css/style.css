@@ -1,0 +1,53 @@
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ddd;
+  min-width: 1024px;
+  font-size:12px;
+  color:#333;
+  font-size: 14px;
+  word-break:break-all;
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
+p,h1,h2,h3,h4,h5{margin: 0;padding: 0;}
+.bgfff{background-color: #fff;}
+.plr20{padding: 0 20px;}
+.p20{padding: 20px;}
+.ptb20{padding: 20px 0;}
+.pagingbox{background-color: #fff;text-align: center;padding: 20px 0;}
+.twoline {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.w50{width: 50px;}
+.w90{width: 90px;}
+.w100{width: 100px;}
+.w120{width: 120px;}
+.w150{width: 150px;}
+.w200{width: 200px;}
+.w220{width: 220px;}
+.w350{width: 350px;}
+.pagebox{text-align: center;padding: 20px 0;}
+.twoline {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.oneline {
+  height: 22px;
+  line-height: 22px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
